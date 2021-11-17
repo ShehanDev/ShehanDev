@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehan Mallawaarachchi</h1>
-<h3 align="center">Im Developer , Undergaraduate at SLIIT  in Sri Lanka</h3>
+<h3 align="center">Im Developer , Undergraduate at SLIIT  in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehandev&label=Profile%20views&color=0e75b6&style=flat" alt="shehandev" /> </p>
 
