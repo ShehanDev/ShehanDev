@@ -2,9 +2,15 @@
 
 ### Software Engineer | Freelancer | Fullsatck & Mobile Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShehanDev&label=Profile views&color=0e75b6&style=flat" alt="ShehanDev" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ShehanDev&label=Profile%20views&color=0e75b6&style=flat" alt="ShehanDev" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShehanDev" alt="ShehanDev" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShehanDev&theme=onedark&margin-w=10&margin-h=10" alt="ShehanDev" />
+  </a>
+</p>
 
 - 🔭 I'm currently working on **’m currently learning **
 
