@@ -12,8 +12,6 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on **’m currently learning **
-
 - 🌱 I'm currently learning **Advanced Spring Boot concepts, microservices architecture, cloud technologies (AWS), and improving frontend skills with React and modern UI frameworks.**
 
 - 📫 How to reach me **shehan96mts@gmail.com**
